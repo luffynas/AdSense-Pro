@@ -1,0 +1,94 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15A5341f Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    },
+    "timezone": "America/Los_Angeles",
+    "language": "en-US",
+    "platform": "iPhone",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screenResolution": {
+      "width": 375,
+      "height": 812
+    },
+    "cpuClass": "arm",
+    "colorDepth": 32
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36",
+    "viewport": {
+      "width": 412,
+      "height": 869,
+      "deviceScaleFactor": 2.625,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    },
+    "timezone": "America/New_York",
+    "language": "en-US",
+    "platform": "Linux armv8l",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screenResolution": {
+      "width": 1440,
+      "height": 3040
+    },
+    "cpuClass": "arm",
+    "colorDepth": 24
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15A372 Safari/604.1",
+    "viewport": {
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    },
+    "timezone": "America/Los_Angeles",
+    "language": "en-US",
+    "platform": "iPhone",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screenResolution": {
+      "width": 1125,
+      "height": 2436
+    },
+    "cpuClass": "arm",
+    "colorDepth": 32
+  },
+  {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1",
+    "viewport": {
+      "width": 414,
+      "height": 896,
+      "deviceScaleFactor": 3,
+      "isMobile": true,
+      "hasTouch": true,
+      "isLandscape": false
+    },
+    "timezone": "Europe/London",
+    "language": "en-GB",
+    "platform": "iPhone",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screenResolution": {
+      "width": 1242,
+      "height": 2688
+    },
+    "cpuClass": "arm",
+    "colorDepth": 32
+  }
+]

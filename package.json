@@ -1,0 +1,30 @@
+{
+  "name": "adsense-pro",
+  "version": "1.0.0",
+  "description": "AdSense with Proxy",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Adsense",
+    "IP",
+    "Proxy",
+    "Device",
+    "Fingerprinting"
+  ],
+  "author": "luffynas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "ora": "^8.1.0",
+    "puppeteer": "^23.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
