@@ -4,7 +4,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const loadFingerprints = () => {
+const loadFingerprints = async () => {
     let fingerprints = [];
 
     const filePath = path.resolve(process.cwd(), process.env.FINGERPRINT_LIST_FILE || 'fingerprints.json');
